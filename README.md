@@ -10,7 +10,7 @@ ICT융합학부 2017012897 박주미
 집에 혼자 남은 반려동물을 위한 자동 급식기
 "나를 부탁해"
 
-![/Users/parkjumi/Pictures/mong.png](file:///Users/parkjumi/Pictures/mong.png)
+![mong](https://user-images.githubusercontent.com/33901515/50281887-4755ff80-0494-11e9-91aa-5e92524aaa0a.png)
 
 * * *
 
@@ -26,16 +26,13 @@ ICT융합학부 2017012897 박주미
 2. 프로토타입
 
 초기 프로토타입 
-![/Users/parjumi/Pictures/p1.png](file:///Users/parkjumi/Pictures/p1.png)
+![p1](https://user-images.githubusercontent.com/33901515/50281902-589f0c00-0494-11e9-888a-07c9b8f7aac4.png)
+![p2](https://user-images.githubusercontent.com/33901515/50281911-60f74700-0494-11e9-900b-f05666427bf2.png)
 
-![/Users/parjumi/Pictures/p2.png](file:///Users/parkjumi/Pictures/p2.png)
-___
 
 최종 프로토타입
-![/Users/parjumi/Pictures/p3.png](file:///Users/parkjumi/Pictures/p3.png)
-
-
-![/Users/parjumi/Pictures/p4.png](file:///Users/parkjumi/Pictures/p4.png)
+![p3](https://user-images.githubusercontent.com/33901515/50281917-681e5500-0494-11e9-8581-5b6033e22095.png)
+![p4](https://user-images.githubusercontent.com/33901515/50281919-6bb1dc00-0494-11e9-8926-f4311514455f.png)
 
 
 * * *
@@ -64,10 +61,9 @@ ___
 
   (3) 코드 
 
-      ![code1.png](/Users/parkjumi/Desktop/code1.png)
+      ![code1](https://user-images.githubusercontent.com/33901515/50281875-40c78800-0494-11e9-8f2a-85570f20e0d6.png)
+      ![code2](https://user-images.githubusercontent.com/33901515/50281876-41601e80-0494-11e9-9131-47fbae5df4ef.png)
 
-      ![code2.png](/Users/parkjumi/Desktop/code2.png)
-      
 
 ==실행 동영상 링크 첨부합니다.==
 
@@ -78,28 +74,21 @@ ___
 
 
 4. 어떻게 동작 ?
-___
-![1.png](/Users/parkjumi/Desktop/1.png)
+![1](https://user-images.githubusercontent.com/33901515/50281869-3f965b00-0494-11e9-8100-e0cb99c38858.png)
+![2](https://user-images.githubusercontent.com/33901515/50281870-402ef180-0494-11e9-88e9-ad9fd30d4c03.png)
+![3](https://user-images.githubusercontent.com/33901515/50281871-402ef180-0494-11e9-95a6-815b22b9e900.png)
 
-
-![2.png](/Users/parkjumi/Desktop/2.png)
-
-
-
-![3.png](/Users/parkjumi/Desktop/3.png)
 
 ***
 
 5. 어려웠던 점 & 아쉬웠던 점
 ___
   (1) 어려웠던 점
+![4](https://user-images.githubusercontent.com/33901515/50281872-402ef180-0494-11e9-81cb-36b13b2fd631.png)
+![5](https://user-images.githubusercontent.com/33901515/50281873-40c78800-0494-11e9-8c69-b81380c02c37.png)
 
-![4.png](/Users/parkjumi/Desktop/4.png)
-
-
-![5.png](/Users/parkjumi/Desktop/5.png)
 ___
   (2) 아쉬웠던 점
+![6](https://user-images.githubusercontent.com/33901515/50281874-40c78800-0494-11e9-88cd-34233790be29.png)
 
 
-![6.png](/Users/parkjumi/Desktop/6.png)
