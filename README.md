@@ -62,9 +62,9 @@ ICT융합학부 2017012897 박주미
 
 
   (3) 코드 
-
-      ![code1](https://user-images.githubusercontent.com/33901515/50281875-40c78800-0494-11e9-8f2a-85570f20e0d6.png)
-      ![code2](https://user-images.githubusercontent.com/33901515/50281876-41601e80-0494-11e9-9131-47fbae5df4ef.png)
+  
+![code1](https://user-images.githubusercontent.com/33901515/50281875-40c78800-0494-11e9-8f2a-85570f20e0d6.png)
+![code2](https://user-images.githubusercontent.com/33901515/50281876-41601e80-0494-11e9-9131-47fbae5df4ef.png)
 
 
 ==실행 동영상 링크 첨부합니다.==
