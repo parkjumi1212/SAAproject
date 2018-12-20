@@ -1,14 +1,15 @@
 **SAA REPORT**
+=========
 오전반 2조 위풍당당조
 ICT융합학부 2017012897 박주미
 
 
 2018-2학기 스마트센서와 액츄에이터의 결과레포트입니다.
-
+실행 동영상 : [https://youtu.be/H97FaAIHPCA](http://https://youtu.be/H97FaAIHPCA) 
 ***
 
 집에 혼자 남은 반려동물을 위한 자동 급식기
-"나를 부탁해"
+**"나를 부탁해"**
 
 ![mong](https://user-images.githubusercontent.com/33901515/50281887-4755ff80-0494-11e9-91aa-5e92524aaa0a.png)
 
@@ -85,7 +86,7 @@ ICT융합학부 2017012897 박주미
 
 5. 어려웠던 점 & 아쉬웠던 점
 
-___
+
   (1) 어려웠던 점
   
 ![4](https://user-images.githubusercontent.com/33901515/50281872-402ef180-0494-11e9-81cb-36b13b2fd631.png)
