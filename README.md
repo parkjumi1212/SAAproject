@@ -8,7 +8,7 @@ ICT융합학부 2017012897 박주미
 ***
 
 집에 혼자 남은 반려동물을 위한 자동 급식기
-++나를 부탁해
+"나를 부탁해"
 
 ![/Users/parkjumi/Pictures/mong.png](file:///Users/parkjumi/Pictures/mong.png)
 
