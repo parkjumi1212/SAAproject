@@ -6,6 +6,7 @@ ICT융합학부 2017012897 박주미
 
 2018-2학기 스마트센서와 액츄에이터의 결과레포트입니다.
 실행 동영상 : [https://youtu.be/H97FaAIHPCA](http://https://youtu.be/H97FaAIHPCA) 
+발표 동영상 : [https://youtu.be/X-emFTNGcSU](https://youtu.be/X-emFTNGcSU)
 ***
 
 집에 혼자 남은 반려동물을 위한 자동 급식기
